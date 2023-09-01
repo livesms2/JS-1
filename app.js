@@ -59,8 +59,8 @@
 
 
 // ? Q 8 Write a script to display this in browser through JS
-document.write("<h1> Yah...! I can write HTML content through JavaScripte</h1>");
+// document.write("<h1> Yah...! I can write HTML content through JavaScripte</h1>");
 
 
 // ? Q 9 Store following string in a variable and show in alert and browser through JS
-alert ("“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”")
+// alert ("“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”")
